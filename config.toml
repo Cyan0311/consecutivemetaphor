@@ -96,15 +96,15 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "consecutivemetaphor"
+    name = "reuixiy"
     # 邮箱
-    email = "obliviouscliche@gmail.com"
+    email = "reuixiy@gmail.com"
     # 座右铭或简介
-    motto = "Be curious."
+    motto = "Viva La Vida"
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://consecutivemetaphor.vercel.app/"
+    website = "https://io-oi.me/"
     # 推特
     twitter = "reuixiy"
 
