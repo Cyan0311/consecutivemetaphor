@@ -14,6 +14,8 @@ fields:
 - type: list
   name: tags
   label: tags
+  description: 是闪过了我的脑瓜
 - type: list
   name: categories
   label: categories
+  description: Daily Thoughts
