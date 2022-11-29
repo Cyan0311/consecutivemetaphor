@@ -600,7 +600,7 @@ uglyURLs = false
     autoLoadComments = true
 
     ## Disqus
-    enableDisqus = false
+    enableDisqus = true
     disqusShortname = ""
 
     ## Valine
