@@ -6,7 +6,7 @@ title = "Consecutive Metaphor"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
-copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
+# copyright = "[cliche](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
 
 # 主题选择
 theme = "meme"
@@ -200,35 +200,31 @@ uglyURLs = false
         name = "文章"
         weight = 2
         pre = "internal"
-        post = "archive"
     [[menu.main]]
         pageref = "/categories/"
-        name = "归档"
+        name = "分类"
         weight = 3
         pre = "internal"
-        post = "th"
     [[menu.main]]
         pageref = "/tags/"
         name = "标签"
         weight = 4
         pre = "internal"
-        post = "tags"
     [[menu.main]]
         pageref = "/about/"
         name = "关于我"
         weight = 5
         pre = "internal"
-        post = "user-circle"
     [[menu.main]]
         weight = 6
         identifier = "theme-switcher"
-    [[menu.main]]
-        weight = 7
-        identifier = "lang-switcher"
+    #[[menu.main]]
+    #    weight = 9
+    #    identifier = "search"
+    #    post = "search"
     # [[menu.main]]
-    #     weight = 8
-    #     identifier = "search"
-    #     post = "search"
+    #    weight = 8
+    #    identifier = "lang-switcher"
 
 
 
@@ -309,13 +305,13 @@ uglyURLs = false
     # 3. posts     文章摘要
     # 4. page      普通页面
 
-    homeLayout = "posts"
+    homeLayout = "poetry"
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = []
+    homePoetry = ["<br><br/> <br><br/> <br>I said to the sun, tell me about the Big Bang. <br/> <br>The sun said, It hurts to become.<br/>"]
     # 底部链接的内间距，单位：em
-    homeLinksPadding = 1
+    homeLinksPadding = 10
 
     ## 「视频片段」
     homePoster = ""
@@ -338,7 +334,7 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。"
+    siteDescription = "Live."
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
@@ -403,7 +399,7 @@ uglyURLs = false
     # 字号单位
     fontUnit = "em"
     # 最大字号
-    largestFontSize = 2.5
+    largestFontSize = 2
     # 最小字号
     smallestFontSize = 1
 
@@ -412,7 +408,7 @@ uglyURLs = false
     # 列表页面
 
     # 宽度
-    listWidth = 45
+    listWidth = 42
     # 说明：如果留空（""），则用 42 作为默认值
     #      单位：em
 
@@ -447,6 +443,7 @@ uglyURLs = false
     #      面；对于标签页面，你可以设置
     #      `enableTagCloud` 为 false 以得到
     #      一个普通的类别列表页面。
+
 
     # 是否显示每一类别项下的文章数
     displayTaxonomyTermCount = true
@@ -736,7 +733,7 @@ uglyURLs = false
     # 注意：只支持 HSL 颜色值
 
     # 文章的内容宽度
-    postWidth = 36
+    postWidth = 42
     # 说明：如果留空（""），则用 42 作为默认值
     #      单位：em
 
@@ -777,7 +774,7 @@ uglyURLs = false
     publishedDateIcon = "calendar-alt"
 
     # 是否显示修改时间
-    displayModifiedDate = true
+    displayModifiedDate = false
     # 修改时间的图标
     modifiedDateIcon = "calendar-check"
 
@@ -853,12 +850,12 @@ uglyURLs = false
     #      即 h1 到 h6。
 
     # 锚点符号
-    anchorSymbol = "#"
+    anchorSymbol = "**·**"
     # 说明：锚点图标的优先级高于锚点符号
     #      默认值：§
 
     # 锚点图标
-    anchorIcon = "link"
+    anchorIcon = ""
     # 说明：留空（""）则回退到锚点符号
 
     # 是否开启锚点链接
@@ -1068,7 +1065,7 @@ uglyURLs = false
     # 文章版权
 
     # 是否开启
-    enablePostCopyright = true
+    enablePostCopyright = false
 
     # 是否显示（全局设置）
     displayPostCopyright = true
@@ -1080,10 +1077,10 @@ uglyURLs = false
     # 文章更新徽章
 
     # 是否开启
-    enablePostUpdatedBadge = true
+    enablePostUpdatedBadge = false
 
     # 是否显示（全局设置）
-    displayUpdatedBadge = true
+    displayUpdatedBadge = false
     # 说明：文章的 Front Matter 中的 `badge`
     #      的优先级高于此处
 
@@ -1138,10 +1135,10 @@ uglyURLs = false
     # 文章分享
 
     # 是否开启
-    enablePostShare = true
+    enablePostShare = false
 
     # 是否显示（全局设置）
-    displayPostShare = true
+    displayPostShare = false
     # 说明：文章的 Front Matter 中的 `share`
     #      的优先级高于此处
 
@@ -1163,7 +1160,7 @@ uglyURLs = false
     # 相关文章
 
     # 是否开启
-    enableRelatedPosts = true
+    enableRelatedPosts = false
 
     # 是否显示（全局设置）
     displayRelatedPosts = true
@@ -1209,13 +1206,13 @@ uglyURLs = false
 
     # 是否开启
     enableMinimalFooter = false
-    enableVerticalBarStructure = false
+    enableVerticalBarStructure = true
     # 说明：如果开启此项，显示在右边的部类或分区
     #      将会包含全部的第一级部类或分区，并且
     #      以竖线（|）分隔开来。
 
     # 是否开启关于页面的极简页脚
-    enableAboutPageMinimalFooter = false
+    enableAboutPageMinimalFooter = true
 
 
     ######################################
@@ -1254,23 +1251,23 @@ uglyURLs = false
     displayCopyrightSymbol = true
 
     # 是否显示站点的创建年份
-    displaySiteCreatedYear = true
+    displaySiteCreatedYear = false
 
     # 年份与作者之间的图标，留空（""）则无
-    iconBetweenYearAndAuthor = "heart"
+    iconBetweenYearAndAuthor = ""
     # 图标颜色
     iconColor = "#f06292"
     # 是否开启图标的跳动效果
     iconAnimation = true
 
     # 是否显示 Hugo 和 MemE 的链接
-    displayPoweredBy = true
+    displayPoweredBy = false
 
     # 是否显示站点的版权信息
     displaySiteCopyright = true
 
     # 自定义页脚（支持 Markdown）
-    customFooter = ""
+    customFooter = "Be curious about the world."
 
     displayBusuanziSiteUVAndPV = false
     busuanziSiteUVText = "本站访客数"
@@ -1282,7 +1279,7 @@ uglyURLs = false
     #      https://busuanzi.ibruce.info/
 
     # 社交链接
-    enableSocials = true
+    enableSocials = false
     # 说明：见 data/Socials.toml
 
 
@@ -1310,7 +1307,7 @@ uglyURLs = false
     # 是否开启竖直滚动
     enableOverflowY = true
     # 最大高度
-    maxHeight = 20
+    maxHeight = 30
     # 单位：em
 
     # 是否开启复制
