@@ -105,8 +105,7 @@ uglyURLs = false
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
     website = "https://consecutivemetaphor.vercel.app/"
-    # 推特
-    twitter = "reuixiy"
+    
 
 # 相关文章
 [related]
@@ -198,28 +197,28 @@ uglyURLs = false
     [[menu.main]]
         pageref = "/posts/"
         name = "文章"
-        weight = 2
+        weight = 1
         pre = "internal"
     [[menu.main]]
         pageref = "/categories/"
         name = "分类"
-        weight = 3
+        weight = 2
         pre = "internal"
     [[menu.main]]
         pageref = "/tags/"
         name = "标签"
-        weight = 4
+        weight = 3
         pre = "internal"
     [[menu.main]]
         pageref = "/about/"
         name = "关于我"
-        weight = 5
+        weight = 4
         pre = "internal"
     [[menu.main]]
-        weight = 6
+        weight = 5
         identifier = "theme-switcher"
     #[[menu.main]]
-    #    weight = 9
+    #    weight = 6
     #    identifier = "search"
     #    post = "search"
     # [[menu.main]]
@@ -290,7 +289,7 @@ uglyURLs = false
     # 说明：对弹性布局的顶栏无效
 
     # 是否按文章分区高亮当前菜单项
-    activeInSection = false
+    activeInSection = true
     # 说明：如果开启，那么当某一文章的分区名是某
     #      一菜单项中的 `url` 时，该文章页面中
     #      的该菜单项也会被高亮
@@ -309,7 +308,7 @@ uglyURLs = false
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = ["<br><br/> <br><br/> <br>I said to the sun, tell me about the Big Bang. <br/> <br>The sun said, It hurts to become.<br/>"]
+    homePoetry = ["<br><br/> <br><br/> <br>I said to the sun, tell me about the Big Bang. <br/> <br>The sun said, it hurts to become.<br/>"]
     # 底部链接的内间距，单位：em
     homeLinksPadding = 10
 
@@ -1272,7 +1271,7 @@ uglyURLs = false
     #      https://busuanzi.ibruce.info/
 
     # 社交链接
-    enableSocials = false
+    enableSocials = true
     # 说明：见 data/Socials.toml
 
 

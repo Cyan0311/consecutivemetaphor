@@ -7,7 +7,7 @@
 
 [[socials]]
     id = "email"
-    url = "obliviouscliche@gmail.com"
+    url = "mailto:obliviouscliche@gmail.com"
     icon = "envelope"
     title = "Email"
     weight = 1
