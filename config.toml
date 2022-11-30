@@ -602,19 +602,6 @@ uglyURLs = false
     enableDisqus = false
     disqusShortname = ""
 
-    ## Waline
-    enableWaline = true
-    walineServerURL = "https://waline-consecutivemetaphor.vercel.app/"
-    walinePlaceholder = "请填写正确的昵称和邮箱，方便接收评论回复信息哦。"
-    walineAvatar = "mm"
-    walineMeta = ["nick", "mail", "link"]
-    valinePageSize = 10
-    walineLang = "zh-CN"
-    walineHighlight = true
-    walineAvatarCDN = "https://cdn.v2ex.com/gravatar/"
-    walineRequiredFields = ["nick", "mail"]
-    # 说明：https://waline.js.org/
-
     ## Valine
     enableValine = false
     valineAppId = "D5GR0gwK7aMugYcWt9mgu966-MdYXbMMI"
