@@ -17,12 +17,12 @@
             {{ partial "third-party/disqus.html" . }}
         {{ end }}
 
-        {{ if .Site.Params.enableWaline }}
-            {{ partial "third-party/waline.html" . }}
-        {{ end }}
-
         {{ if .Site.Params.enableValine }}
             {{ partial "third-party/valine.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.enableWaline }}
+            {{ partial "third-party/waline.html" . }}
         {{ end }}
 
         {{ if .Site.Params.enableUtterances }}

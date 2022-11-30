@@ -11,12 +11,12 @@
             <div id="disqus_thread"></div>
         {{ end }}
 
-        {{ if .Site.Params.enableWaline }}
-            <div id="waline"></div>
-        {{ end }}
-
         {{ if .Site.Params.enableValine }}
             <div id="vcomments"></div>
+        {{ end }}
+
+        {{ if .Site.Params.enableWaline }}
+            <div id="waline"></div>
         {{ end }}
 
         {{ if .Site.Params.enableUtterances }}

@@ -591,12 +591,12 @@ uglyURLs = false
     # 说明：仅在生产环境（production）下渲染
 
     # 是否开启（全局设置）
-    enableComments = false
+    enableComments = true
     # 说明：文章的 Front Matter 中的 `comments`
     #      的优先级高于此处
 
     # 直接加载评论，不需要手动点击按钮加载
-    autoLoadComments = true
+    autoLoadComments = false
 
     ## Disqus
     enableDisqus = false
@@ -615,6 +615,20 @@ uglyURLs = false
     valineEnableQQ = false
     valineRequiredFields = ["nick", "mail"]
     # 说明：https://valine.js.org/
+
+    ## Waline
+    enableWaline = true
+    walineServerURL = "https://waline-consecutivemetaphor.vercel.app/"
+    walineWordLimit = 0
+    walineMeta = ["nick", "mail", "link"]
+    walinePageSize = 10
+    walineLang = "zh-CN"
+    walineHighlight = true
+    walineEmoji = ["https://unpkg.com/@waline/emojis@1.0.1/weibo", "https://unpkg.com/@waline/emojis@1.0.1/bilibili"]
+    walineRequiredMeta = ["nick", "mail"]
+    walineLogin = "enabled"
+    walineCopyright = true
+    # 说明：https://waline.js.org/
 
     ## Utterances
     enableUtterances = false
