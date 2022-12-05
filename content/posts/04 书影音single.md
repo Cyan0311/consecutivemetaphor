@@ -24,8 +24,6 @@ scdhisbcih
 
 <br><br/>{{< link href="https://github.com/upstage/" content=Upstage title="Visit Upstage!" >}}
 
-<br>
-
-<br/>
+<br><br/>
 
 ![](/uploads/maxim-berg-tce45yizja0-unsplash.jpg)
