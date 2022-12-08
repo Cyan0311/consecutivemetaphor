@@ -1,5 +1,5 @@
 ---
-title: 圈子？什么是圈子？
+title: 一些关于我混过的古怪离奇圈子的观察
 date: 2022-12-05T11:46:06.000+08:00
 description: 关于任何圈子的看法有了一些改变。
 tags:
@@ -11,6 +11,7 @@ categories:
 - Daily Thoughts
 textIndent: true
 h2Center: false
+
 ---
 > ### 盘点混过的一些古早圈子
 
