@@ -1,5 +1,5 @@
 ---
-title: 爱是疯狂、笨拙与神经质的混合以及垃圾话对感情的重要程度远超我们的想象
+title: 垃圾话对感情的重要程度远超我们的想象
 date: 2022-12-08T11:43:21.000+00:00
 description: vvverrrrry Punch-Drunk Love! I love the name.
 tags:
