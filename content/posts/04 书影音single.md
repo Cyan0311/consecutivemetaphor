@@ -1,5 +1,5 @@
 ---
-title: 这个故事告诉我们，爱是疯狂、笨拙与神经质的混合以及垃圾话对于一段感情的重要性
+title: 爱是疯狂、笨拙与神经质的混合以及垃圾话对感情的重要程度远超我们的想象
 date: 2022-12-08T11:43:21+00:00
 description: vvverrrrry Punch-Drunk Love! I love the name.
 tags:
@@ -12,11 +12,9 @@ categories:
 textIndent: true
 h2Center: false
 ---
-<br><br/>{{< link href="https://open.spotify.com/track/18JaUfrNLqAym4ijPDM97A?si=2a64280fb65a486d" content=Two Sleepy People title="Plz listen to the song which is very suitable for the movie!" >}}
-
-<br><br/>
 
 
+<br><br/>{{< link href="https://open.spotify.com/track/18JaUfrNLqAym4ijPDM97A?si=2a64280fb65a486d" content=TwoSleepyPeople title="Plz listen to the song which is very suitable for the movie!" >}} <br><br/>
 
 Two Sleepy People's love story!
 
