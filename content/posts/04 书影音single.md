@@ -1,5 +1,5 @@
 ---
-title: 爱的本质——笨拙与神经质
+title: 爱的本质不就是笨拙与神经质的混合吗？
 date: 2022-12-08T11:43:21+00:00
 description: vvverrrrry Punch-Drunk Love! I love the name.
 tags:
