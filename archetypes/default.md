@@ -27,5 +27,7 @@ categories:
   - Something about MIXING
 
   - Special Moments about Imagination
+textIndent: false
+h2Center: false
 ---
 

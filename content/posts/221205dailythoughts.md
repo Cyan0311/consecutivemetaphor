@@ -9,7 +9,8 @@ tags:
 - 关于同人与圈子
 categories:
 - Daily Thoughts
-
+textIndent: true
+h2Center: false
 ---
 > ### 盘点混过的一些古早圈子
 

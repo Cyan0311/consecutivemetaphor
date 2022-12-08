@@ -8,7 +8,8 @@ tags:
 - 很小的虚无时刻
 categories:
 - Special Moments about Imagination
-
+textIndent: true
+h2Center: false
 ---
 scdhisbcih
 

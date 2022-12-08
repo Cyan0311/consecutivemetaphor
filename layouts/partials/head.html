@@ -117,4 +117,12 @@
     {{- end }}
 
     {{ partial "custom/head.html" . }}
+
+    {{ if .Params.textIndent | default false }}
+      <style>.content p {text-indent: 2em}</style>
+    {{ end }}
+
+    {{ if .Params.h2Center | default false }}
+      <style>.content h2 {text-align: center}</style>
+    {{ end}}
 </head>
