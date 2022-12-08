@@ -1,20 +1,21 @@
 ---
 title: 爱是疯狂、笨拙与神经质的混合以及垃圾话对感情的重要程度远超我们的想象
-date: 2022-12-08T11:43:21+00:00
+date: 2022-12-08T11:43:21.000+00:00
 description: vvverrrrry Punch-Drunk Love! I love the name.
 tags:
-  - 一些不太重要的感同身受
-  - 混乱无序的触动
-  - 很小的虚无时刻
-  - 好喜欢好喜欢！
+- 一些不太重要的感同身受
+- 混乱无序的触动
+- 很小的虚无时刻
+- 好喜欢好喜欢！
 categories:
-  - Special Moments about Imagination
+- Special Moments about Imagination
 textIndent: true
 h2Center: false
+
 ---
+![](/uploads/p2871531285.png)
 
-
-<br><br/>{{< link href="https://open.spotify.com/track/18JaUfrNLqAym4ijPDM97A?si=2a64280fb65a486d" content=TwoSleepyPeople title="Plz listen to the song which is very suitable for the movie!" >}} <br><br/>
+{{< link href="https://open.spotify.com/track/18JaUfrNLqAym4ijPDM97A?si=2a64280fb65a486d" content=TwoSleepyPeople title="Plz listen to the song which is very suitable for the movie!" >}} <br><br/>
 
 Two Sleepy People's love story!
 
