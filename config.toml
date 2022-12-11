@@ -619,7 +619,7 @@ uglyURLs = false
 
     ## Waline
     enableWaline = true
-    walineServerURL = "https://waline-consecutivemetaphor.vercel.app/"
+    walineServerURL = "https://cmcomment.cliche.icu/"
     walineWordLimit = 0
     walineMeta = ["nick", "mail", "link"]
     walinePageSize = 10
