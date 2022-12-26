@@ -12,7 +12,6 @@ categories:
 - Daily Thoughts
 textIndent: true
 h2Center: false
-draft: true
 
 ---
 {{< link href="https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR?si=ceecc44a95fd4010" content=这是一首可以点开的听的spotify链接——Flightless Bird, American Mouth title="One day when I woke up, this song just came to my mind. I have no idea how this happened. " >}} <br><br/>
@@ -79,4 +78,8 @@ One day when I woke up, this song just came to my mind. I have no idea how this 
 
 两位主播真的好有魅力，我最近也在脱离一些所谓的艺术的东西想去看看更多生物、物理、化学相关的知识，这个播客出现的恰到好处。
 
-[https://www.youtube.com/playlist?app=desktop&list=PL848F2368C90DDC3D](https://www.youtube.com/playlist?app=desktop&list=PL848F2368C90DDC3D "https://www.youtube.com/playlist?app=desktop&list=PL848F2368C90DDC3D")
+做一个视频链接存档。
+
+<br><br/>{{< link href="[https://www.youtube.com/playlist?app=desktop&list=PL848F2368C90DDC3D](https://www.youtube.com/playlist?app=desktop&list=PL848F2368C90DDC3D "https://www.youtube.com/playlist?app=desktop&list=PL848F2368C90DDC3D")" content=Lecture Collection | Human Behavioral Biology title="An archive for myself" >}}
+
+<br><br/>
