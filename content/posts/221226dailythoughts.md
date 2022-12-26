@@ -80,6 +80,6 @@ One day when I woke up, this song just came to my mind. I have no idea how this 
 
 做一个视频链接存档。
 
-<br><br/>{{< link href="[https://www.youtube.com/playlist?app=desktop&list=PL848F2368C90DDC3D](https://www.youtube.com/playlist?app=desktop&list=PL848F2368C90DDC3D "https://www.youtube.com/playlist?app=desktop&list=PL848F2368C90DDC3D")" content=Lecture Collection | Human Behavioral Biology title="An archive for myself" >}}
+<br><br/>{{< link href="[https://www.youtube.com/playlist?app=desktop&list=PL848F2368C90DDC3D](https://www.youtube.com/playlist?app=desktop&list=PL848F2368C90DDC3D "https://www.youtube.com/playlist?app=desktop&list=PL848F2368C90DDC3D")" content=HumanBehavioralBiology title="An archive for myself" >}}
 
 <br><br/>
