@@ -14,7 +14,7 @@ textIndent: true
 h2Center: false
 
 ---
-{{< link href="https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR?si=ceecc44a95fd4010" content=这是一首可以点开的听的spotify链接——FlightlessbirdAmericanmouth title="One day when I woke up, this song just came to my mind. I have no idea how this happened. " >}} <br><br/>
+{{< link href="https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR?si=ceecc44a95fd4010" content=这是一首可以点开的听的spotify链接 title="One day when I woke up, this song just came to my mind. I have no idea how this happened. " >}} <br><br/>
 
 One day when I woke up, this song just came to my mind. I have no idea how this happened. So I put it here.
 
@@ -80,6 +80,6 @@ One day when I woke up, this song just came to my mind. I have no idea how this 
 
 做一个视频链接存档。
 
-<br><br/>{{< link href="[https://youtube.com/playlist?list=PL848F2368C90DDC3D](https://youtube.com/playlist?list=PL848F2368C90DDC3D "https://youtube.com/playlist?list=PL848F2368C90DDC3D")" content=HumanBehavioralBiology title="An archive for myself" >}}
+<br><br/>{{< link href="https://youtube.com/playlist?list=PL848F2368C90DDC3D" content=HumanBehavioralBiology title="An archive for myself" >}}
 
 <br><br/>
