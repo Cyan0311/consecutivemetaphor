@@ -80,6 +80,6 @@ One day when I woke up, this song just came to my mind. I have no idea how this 
 
 做一个视频链接存档。
 
-<br><br/>{{< link href="https://youtube.com/playlist?list=PL848F2368C90DDC3D" content=HumanBehavioralBiology title="An archive for myself" >}}
+<br><br/><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL848F2368C90DDC3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br/>
