@@ -44,7 +44,7 @@ One day when I woke up, this song just came to my mind. I have no idea how this 
 
 我再次回忆我本来对这部一点感觉也没有的当年我看完就是看完了，我都还想说那个编剧这么啰嗦，看不懂，结果现在被自己打脸orz
 
-说起来我最近磕Mark和Eduardo的热情稍微减退，这次生病主要在看各位船友磕Jewnicorn，我发现了一个很奇怪的特点，就是磕真人的时候，总会有一个更偏向的会被自己称为老公的人，一部分是更偏向于加菲，一部分向我这种炼铜的变态就是更偏向于解析爱，而且这个偏向是一定会有的，是一定会在每个人磕的时候是存在的。
+说起来我最近磕Mark和Eduardo的热情稍微减退，这次生病主要在看各位船友磕Jewnicorn，我发现了一个很奇怪的特点，就是磕真人的时候，总会有一个更偏向的会被自己称为老公的人，一部分是更偏向于加菲，一部分像我这种炼铜的变态就是更偏向于解析爱，而且这个偏向是一定会有的，是一定会在每个人磕的时候是存在的。
 
 嗯嗯，最近的cp脑一直再告诉我，就你扣当年真的不要太爱了，为什么两位可以这么爱，但是另外一部分的脑子告诉我要理智，让我自己从路人眼光跳出来看看，我跳出来看了之后就觉得两位更真了，然后被这种拉扯搞得崩溃。
 
@@ -78,8 +78,4 @@ One day when I woke up, this song just came to my mind. I have no idea how this 
 
 两位主播真的好有魅力，我最近也在脱离一些所谓的艺术的东西想去看看更多生物、物理、化学相关的知识，这个播客出现的恰到好处。
 
-做一个视频链接存档。
-
-<br><br/><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL848F2368C90DDC3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br><br/>
+决定空的时候认真做笔记看完。
