@@ -13,7 +13,7 @@ textIndent: true
 h2Center: false
 
 ---
-![](/uploads/p2871531285.png)
+![](https://lh3.googleusercontent.com/u/0/d/1tC7HNCkhs6soa_J6N0QGgcz7tlm5e24T)
 
 {{< link href="https://open.spotify.com/track/18JaUfrNLqAym4ijPDM97A?si=2a64280fb65a486d" content=这是一首可以点开的听的spotify链接——TwoSleepyPeople title="Plz listen to the song which is very suitable for the movie!" >}} <br><br/>
 
