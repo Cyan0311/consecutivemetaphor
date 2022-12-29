@@ -14,8 +14,6 @@ textIndent: true
 h2Center: false
 
 ---
-![](/uploads/pdl.png)
-
 {{< link href="https://open.spotify.com/track/1fEGtTZjrjJW8eUeewnNJR?si=ceecc44a95fd4010" content=这是一首可以点开的听的spotify链接——FBAM title="One day when I woke up, this song just came to my mind. I have no idea how this happened. " >}} <br><br/>
 
 One day when I woke up, this song just came to my mind. I have no idea how this happened. So I put it here.
