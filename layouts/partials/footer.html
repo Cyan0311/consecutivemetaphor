@@ -9,18 +9,12 @@
                   ©&nbsp;
               {{- end -}}
 
-              {{- if .Site.Params.displaySiteCreatedYear -}}
-                  {{- dateFormat "2006" (time .Site.Params.siteCreatedTime) -}}–
-              {{- end -}}
-              {{- now.Format "2006" -}}
-
               {{- with .Site.Params.iconBetweenYearAndAuthor -}}
                   &nbsp;{{- partial "utils/icon.html" (dict "$" $ "name" . "class" "footer-icon") -}}&nbsp;
               {{- else -}}
                   &nbsp;
               {{- end -}}
 
-              {{- .Site.Author.name -}}
             </div>
 
             {{- if .Site.Params.displayPoweredBy }}
@@ -38,45 +32,10 @@
                 <div class="custom-footer">{{ partial "utils/markdownify.html" (dict "$" $ "raw" $raw "isContent" false) }}</div>
             {{- end }}
 
-            {{- if and .Site.Params.displayBusuanziSiteUVAndPV (eq hugo.Environment "production") }}
-                <div class="busuanzi-site-uv-and-pv">
-                    <span id="busuanzi_container_site_uv">
-                        {{- with .Site.Params.busuanziSiteUVText -}}
-                            {{- . -}}
-                            &nbsp;
-                        {{- end -}}
-
-                        {{- with .Site.Params.busuanziSiteUVIcon -}}
-                            {{- partial "utils/icon.html" (dict "$" $ "name" $.Site.Params.busuanziSiteUVIcon "class" "busuanzi-site-uv") -}}
-                            &nbsp;
-                        {{- end -}}
-
-                        <!-- Avoid extra spaces -->
-                        {{- print `<span id="busuanzi_value_site_uv"></span>` | safeHTML -}}
-                    </span>
-
-                    {{- print "&nbsp;|&nbsp;" | safeHTML -}}
-
-                    <span id="busuanzi_container_site_pv">
-                        {{- with .Site.Params.busuanziSitePVText -}}
-                            {{- . -}}
-                            &nbsp;
-                        {{- end -}}
-
-                        {{- with .Site.Params.busuanziSitePVIcon -}}
-                            {{- partial "utils/icon.html" (dict "$" $ "name" $.Site.Params.busuanziSitePVIcon "class" "busuanzi-site-pv") -}}
-                            &nbsp;
-                        {{- end -}}
-
-                        <!-- Avoid extra spaces -->
-                        {{- print `<span id="busuanzi_value_site_pv"></span>` | safeHTML -}}
-                    </span>
-                </div>
-            {{- end }}
+            {{ partial "custom/footer.html" . }}
 
             {{ partial "components/socials.html" . }}
 
-            {{ partial "custom/footer.html" . }}
         </div>
     </footer>
 {{ end }}

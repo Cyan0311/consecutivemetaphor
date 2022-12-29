@@ -2,7 +2,7 @@
 # 站点配置
 
 baseURL = "https://consecutivemetaphor.vercel.app/"
-title = "Consecutive Metaphor"
+title = "Consecutive Metaphors"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）
@@ -1255,10 +1255,10 @@ uglyURLs = false
 
     displayCopyleftSymbol = false
     # 是否显示版权符号（©）
-    displayCopyrightSymbol = true
+    displayCopyrightSymbol = false
 
     # 是否显示站点的创建年份
-    displaySiteCreatedYear = false
+    # displaySiteCreatedYear = false
 
     # 年份与作者之间的图标，留空（""）则无
     iconBetweenYearAndAuthor = ""
@@ -1271,19 +1271,10 @@ uglyURLs = false
     displayPoweredBy = false
 
     # 是否显示站点的版权信息
-    displaySiteCopyright = true
+    # displaySiteCopyright = false
 
     # 自定义页脚（支持 Markdown）
     customFooter = "Be curious about the world."
-
-    displayBusuanziSiteUVAndPV = false
-    busuanziSiteUVText = "本站访客数"
-    busuanziSiteUVIcon = "user"
-    busuanziSitePVText = "本站访问量"
-    busuanziSitePVIcon = "eye"
-    # 说明：仅在生产环境（production）下渲染
-    #      文本或图标，留空（""）则无
-    #      https://busuanzi.ibruce.info/
 
     # 社交链接
     enableSocials = true
